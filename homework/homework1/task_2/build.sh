@@ -1,4 +1,6 @@
 #!/usr/bin/env bash
+#mkdir results build
+#mkdir results/bin results/lib
 echo "Compile main program and arithmetic functions..."
 c++ -std=c++17 -c ./src/main.cpp -o ./build/main.o -I./include
 c++ -std=c++17 -c ./src/subtract.cpp -o ./build/subtract.o -I ./include
