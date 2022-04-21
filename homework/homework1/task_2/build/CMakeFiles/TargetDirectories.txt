@@ -1,0 +1,14 @@
+/home/dyx/MordernCPP/homework/homework1/task_2/build/CMakeFiles/install/strip.dir
+/home/dyx/MordernCPP/homework/homework1/task_2/build/CMakeFiles/edit_cache.dir
+/home/dyx/MordernCPP/homework/homework1/task_2/build/CMakeFiles/main.dir
+/home/dyx/MordernCPP/homework/homework1/task_2/build/CMakeFiles/rebuild_cache.dir
+/home/dyx/MordernCPP/homework/homework1/task_2/build/CMakeFiles/list_install_components.dir
+/home/dyx/MordernCPP/homework/homework1/task_2/build/CMakeFiles/install/local.dir
+/home/dyx/MordernCPP/homework/homework1/task_2/build/CMakeFiles/install.dir
+/home/dyx/MordernCPP/homework/homework1/task_2/build/src/CMakeFiles/install/strip.dir
+/home/dyx/MordernCPP/homework/homework1/task_2/build/src/CMakeFiles/edit_cache.dir
+/home/dyx/MordernCPP/homework/homework1/task_2/build/src/CMakeFiles/install.dir
+/home/dyx/MordernCPP/homework/homework1/task_2/build/src/CMakeFiles/ipb_arithmetic.dir
+/home/dyx/MordernCPP/homework/homework1/task_2/build/src/CMakeFiles/rebuild_cache.dir
+/home/dyx/MordernCPP/homework/homework1/task_2/build/src/CMakeFiles/list_install_components.dir
+/home/dyx/MordernCPP/homework/homework1/task_2/build/src/CMakeFiles/install/local.dir
