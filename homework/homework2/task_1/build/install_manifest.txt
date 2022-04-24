@@ -1,0 +1,3 @@
+/home/dyx/MordernCPP/homework/homework2/task_1/install/bin/main
+/home/dyx/MordernCPP/homework/homework2/task_1/install/include/guess.hpp
+/home/dyx/MordernCPP/homework/homework2/task_1/install/lib/liblibguess.a

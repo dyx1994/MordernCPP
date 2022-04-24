@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblibguess.a  CMakeFiles/libguess.dir/guess.cpp.o
+/usr/bin/ranlib liblibguess.a

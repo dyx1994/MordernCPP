@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dyx/MordernCPP/homework/homework2/task_1/include/guess.hpp
+
+/home/dyx/MordernCPP/homework/homework2/task_1/src/main.cpp
+iostream
+-
+cstdlib
+-
+random
+-
+../include/guess.hpp
+/home/dyx/MordernCPP/homework/homework2/task_1/include/guess.hpp
+
