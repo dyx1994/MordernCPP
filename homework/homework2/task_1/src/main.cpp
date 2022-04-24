@@ -19,8 +19,7 @@ int main() {
     cin >> number;
     if (cin.fail()) {
       cout << "Error encountered, exiting...\n" << endl;
-      break;
-      return 1;
+      exit(EXIT_FAILURE);
     }
     else if (number<0 || number>99) {
       cerr << "[WARNING] : Number must be between 0 and 99.\n" << endl;
@@ -28,8 +27,7 @@ int main() {
     }
     else if (number==answer) {
       cout << "Congratulations! Your number is correct.\n" << endl;
-      break;
-      return 0;
+      exit(EXIT_SUCCESS);
     }
     else {
       guess(number, answer);
