@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.10.2)
 
-project(task2)
+project(task_1)
 
 set(CMAKE_CXX_STANDARD 17)
 
@@ -14,7 +14,7 @@ add_executable(main ${ROOTPATH}/src/main.cpp)
 
 
 # tell the linker to bind these objects together
-target_link_libraries(main libguess) # ./ main
+target_link_libraries(main guess) # ./ main
 
 # set the installation path
 set(CMAKE_INSTALL_PREFIX ${ROOTPATH}/install/)

@@ -7,7 +7,7 @@
 /home/dyx/MordernCPP/homework/homework2/task_1/build/CMakeFiles/install.dir
 /home/dyx/MordernCPP/homework/homework2/task_1/build/src/CMakeFiles/install/strip.dir
 /home/dyx/MordernCPP/homework/homework2/task_1/build/src/CMakeFiles/edit_cache.dir
-/home/dyx/MordernCPP/homework/homework2/task_1/build/src/CMakeFiles/libguess.dir
+/home/dyx/MordernCPP/homework/homework2/task_1/build/src/CMakeFiles/guess.dir
 /home/dyx/MordernCPP/homework/homework2/task_1/build/src/CMakeFiles/rebuild_cache.dir
 /home/dyx/MordernCPP/homework/homework2/task_1/build/src/CMakeFiles/list_install_components.dir
 /home/dyx/MordernCPP/homework/homework2/task_1/build/src/CMakeFiles/install/local.dir

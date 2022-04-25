@@ -130,7 +130,7 @@ CMAKE_OBJCOPY:FILEPATH=/usr/bin/objcopy
 CMAKE_OBJDUMP:FILEPATH=/usr/bin/objdump
 
 //Value Computed by CMake
-CMAKE_PROJECT_NAME:STATIC=task2
+CMAKE_PROJECT_NAME:STATIC=task_1
 
 //Path to a program.
 CMAKE_RANLIB:FILEPATH=/usr/bin/ranlib
@@ -182,13 +182,13 @@ CMAKE_STRIP:FILEPATH=/usr/bin/strip
 CMAKE_VERBOSE_MAKEFILE:BOOL=FALSE
 
 //Dependencies for target
-libguess_LIB_DEPENDS:STATIC=
+guess_LIB_DEPENDS:STATIC=
 
 //Value Computed by CMake
-task2_BINARY_DIR:STATIC=/home/dyx/MordernCPP/homework/homework2/task_1/build
+task_1_BINARY_DIR:STATIC=/home/dyx/MordernCPP/homework/homework2/task_1/build
 
 //Value Computed by CMake
-task2_SOURCE_DIR:STATIC=/home/dyx/MordernCPP/homework/homework2/task_1
+task_1_SOURCE_DIR:STATIC=/home/dyx/MordernCPP/homework/homework2/task_1
 
 
 ########################

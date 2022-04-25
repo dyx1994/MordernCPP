@@ -170,17 +170,17 @@ main/fast:
 .PHONY : main/fast
 
 #=============================================================================
-# Target rules for targets named libguess
+# Target rules for targets named guess
 
 # Build rule for target.
-libguess: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 libguess
-.PHONY : libguess
+guess: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 guess
+.PHONY : guess
 
 # fast build rule for target.
-libguess/fast:
-	$(MAKE) -f src/CMakeFiles/libguess.dir/build.make src/CMakeFiles/libguess.dir/build
-.PHONY : libguess/fast
+guess/fast:
+	$(MAKE) -f src/CMakeFiles/guess.dir/build.make src/CMakeFiles/guess.dir/build
+.PHONY : guess/fast
 
 src/main.o: src/main.cpp.o
 
@@ -222,7 +222,7 @@ help:
 	@echo "... list_install_components"
 	@echo "... install/local"
 	@echo "... install"
-	@echo "... libguess"
+	@echo "... guess"
 	@echo "... src/main.o"
 	@echo "... src/main.i"
 	@echo "... src/main.s"

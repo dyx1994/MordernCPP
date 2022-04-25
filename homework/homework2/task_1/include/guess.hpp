@@ -6,10 +6,10 @@
 #define GUESS_HPP
 
 /**
- * @brief This is an awesome function that will perform the sum of to elements
- *
- * @param x It's the first element to be subtracted.
- * @return float The subtraction of the two input parameters, x and y.
+ * @brief This function will compare the guessed number with the random number
+ * @param x guess number 
+ * @param y computer generated random number
+ * @return The guess number is smaller or greater than the random number
  */
 
 void guess(int x, int y);

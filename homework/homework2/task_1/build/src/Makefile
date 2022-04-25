@@ -157,19 +157,19 @@ depend:
 .PHONY : depend
 
 # Convenience name for target.
-src/CMakeFiles/libguess.dir/rule:
-	cd /home/dyx/MordernCPP/homework/homework2/task_1/build && $(MAKE) -f CMakeFiles/Makefile2 src/CMakeFiles/libguess.dir/rule
-.PHONY : src/CMakeFiles/libguess.dir/rule
+src/CMakeFiles/guess.dir/rule:
+	cd /home/dyx/MordernCPP/homework/homework2/task_1/build && $(MAKE) -f CMakeFiles/Makefile2 src/CMakeFiles/guess.dir/rule
+.PHONY : src/CMakeFiles/guess.dir/rule
 
 # Convenience name for target.
-libguess: src/CMakeFiles/libguess.dir/rule
+guess: src/CMakeFiles/guess.dir/rule
 
-.PHONY : libguess
+.PHONY : guess
 
 # fast build rule for target.
-libguess/fast:
-	cd /home/dyx/MordernCPP/homework/homework2/task_1/build && $(MAKE) -f src/CMakeFiles/libguess.dir/build.make src/CMakeFiles/libguess.dir/build
-.PHONY : libguess/fast
+guess/fast:
+	cd /home/dyx/MordernCPP/homework/homework2/task_1/build && $(MAKE) -f src/CMakeFiles/guess.dir/build.make src/CMakeFiles/guess.dir/build
+.PHONY : guess/fast
 
 guess.o: guess.cpp.o
 
@@ -177,7 +177,7 @@ guess.o: guess.cpp.o
 
 # target to build an object file
 guess.cpp.o:
-	cd /home/dyx/MordernCPP/homework/homework2/task_1/build && $(MAKE) -f src/CMakeFiles/libguess.dir/build.make src/CMakeFiles/libguess.dir/guess.cpp.o
+	cd /home/dyx/MordernCPP/homework/homework2/task_1/build && $(MAKE) -f src/CMakeFiles/guess.dir/build.make src/CMakeFiles/guess.dir/guess.cpp.o
 .PHONY : guess.cpp.o
 
 guess.i: guess.cpp.i
@@ -186,7 +186,7 @@ guess.i: guess.cpp.i
 
 # target to preprocess a source file
 guess.cpp.i:
-	cd /home/dyx/MordernCPP/homework/homework2/task_1/build && $(MAKE) -f src/CMakeFiles/libguess.dir/build.make src/CMakeFiles/libguess.dir/guess.cpp.i
+	cd /home/dyx/MordernCPP/homework/homework2/task_1/build && $(MAKE) -f src/CMakeFiles/guess.dir/build.make src/CMakeFiles/guess.dir/guess.cpp.i
 .PHONY : guess.cpp.i
 
 guess.s: guess.cpp.s
@@ -195,7 +195,7 @@ guess.s: guess.cpp.s
 
 # target to generate assembly for a file
 guess.cpp.s:
-	cd /home/dyx/MordernCPP/homework/homework2/task_1/build && $(MAKE) -f src/CMakeFiles/libguess.dir/build.make src/CMakeFiles/libguess.dir/guess.cpp.s
+	cd /home/dyx/MordernCPP/homework/homework2/task_1/build && $(MAKE) -f src/CMakeFiles/guess.dir/build.make src/CMakeFiles/guess.dir/guess.cpp.s
 .PHONY : guess.cpp.s
 
 # Help Target
@@ -206,7 +206,7 @@ help:
 	@echo "... depend"
 	@echo "... install/strip"
 	@echo "... edit_cache"
-	@echo "... libguess"
+	@echo "... guess"
 	@echo "... rebuild_cache"
 	@echo "... list_install_components"
 	@echo "... install/local"

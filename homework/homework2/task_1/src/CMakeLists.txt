@@ -1,3 +1,3 @@
-add_library(libguess guess.cpp)
+add_library(guess guess.cpp)
 
-install (TARGETS libguess DESTINATION lib)
+install (TARGETS guess DESTINATION lib)

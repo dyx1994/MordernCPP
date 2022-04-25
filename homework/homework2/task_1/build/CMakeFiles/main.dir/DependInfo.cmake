@@ -15,7 +15,7 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
-  "/home/dyx/MordernCPP/homework/homework2/task_1/build/src/CMakeFiles/libguess.dir/DependInfo.cmake"
+  "/home/dyx/MordernCPP/homework/homework2/task_1/build/src/CMakeFiles/guess.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.
