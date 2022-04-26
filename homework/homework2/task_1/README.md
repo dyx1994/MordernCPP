@@ -3,8 +3,6 @@
 Here is an example of this program:
 
 ```bash
-Your number is smaller than the answer.
-
 Please enter a number:
 90
 Your number is greater than the answer.
