@@ -5,7 +5,7 @@
 #ifndef CALCULATION_HPP
 #define CALCULATION_HPP
 #include <iostream>
-using namespace std;
+
 /**
  * @brief This is an awesome function that will perform the sum of to elements
  *
@@ -18,6 +18,6 @@ using namespace std;
 
  */
 
-void calculation(int num_1, int num_2, string ext_1, string ext_2);
+void calculation(int num_1, int num_2, std::string ext_1, std::string ext_2);
 
 #endif  // CALCULATION_HPP
