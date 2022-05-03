@@ -1,0 +1,1 @@
+add_library(MySum MySum.cpp)
